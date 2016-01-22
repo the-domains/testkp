@@ -1,0 +1,28 @@
+name: TestKP
+favicon: null
+layout_spectrum: 0.5652147531509399
+typography_spectrum: 0.11940001556649804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6754162556026131
+  lightness: 0.8923034307081252
+  saturation: 0.9707429371774197
+  rhythmicContrast: 0.46463808440603316
+purpose: []
