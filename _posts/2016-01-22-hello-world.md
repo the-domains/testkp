@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T22:46:57.317Z'
-dateModified: '2016-01-22T22:46:36.684Z'
+datePublished: '2016-01-22T22:51:28.811Z'
+dateModified: '2016-01-22T22:51:23.762Z'
 title: Hello World
 author: []
+sourcePath: _posts/2016-01-22-hello-world.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-hello-world.md
-published: true
 url: hello-world/index.html
 _type: Article
 
